@@ -1,6 +1,6 @@
 # Notepad Backend with File System
 
-## 📋 Project Description
+##  Project Description
 
 This is a simple backend project built using **Node.js** and **Express** that functions like a basic notepad. The main objective of this project was to understand how backend services work and how to manage data using the **file system module (`fs`)** in Node.js instead of a database.
 
@@ -12,7 +12,7 @@ Users can:
 
 All data is stored locally using the Node.js file system, making this project lightweight and database-free.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Node.js
 - Express.js
